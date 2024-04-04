@@ -1,1 +1,1 @@
-# PowerBI
+This repository contains resources and files for analyzing employee attrition using Power BI. The project aims to delve into employee data to understand factors contributing to attrition and develop insights to mitigate turnover. By visualizing and analyzing employee-related metrics, organizations can make informed decisions to improve retention and enhance workforce management strategies.
